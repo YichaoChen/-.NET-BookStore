@@ -1,0 +1,14 @@
+#header{background-color:#CCCCCC;  margin-left:20%; margin-right:20%;}
+
+h1 {font-size:14px; color:#FFFFFF; font-style:italic; line-height:24px; margin-left:10px; font-family: "Trebuchet MS", Arial, sans-serif;}
+
+p {font-size:180x; color:#FFFFFF; font-weight:bold; text-align:center; padding-top:20px; font-family: "Trebuchet MS", Arial, sans-serif;}
+
+#banner{background-color:#336600; height:60px;margin-left:20%; margin-right:20%;}
+
+#main {background-color:#F2F2F2; height:800px;margin-left:20%; margin-right:20%;}
+
+.left {float:left;}
+
+.right {float:right;}
+
